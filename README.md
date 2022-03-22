@@ -1,4 +1,4 @@
-# BootcampAngularDesafio1
+# Bootcamp Angular Desafio 1 | Game Tic Tac Toe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.4.
 
